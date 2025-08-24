@@ -1,7 +1,4 @@
 # python-curso-em-video
-Exercícios de Python desenvolvidos durante o curso do Canal Curso em Vídeo, abrangendo os três módulos: Mundo 1, Mundo 2 e Mundo 3.
-
-Exercícios de Python - Curso em Vídeo
 
 Este repositório reúne todos os exercícios realizados durante o curso de Python ministrado pelo Curso em Vídeo, abrangendo os três módulos:
 
