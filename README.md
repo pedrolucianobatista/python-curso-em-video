@@ -1,19 +1,16 @@
 # python-curso-em-video
 
-Este repositório reúne todos os exercícios realizados durante o curso de Python ministrado pelo Curso em Vídeo, abrangendo os três módulos:
+Este repositório reúne todos os exercícios realizados durante o curso de **Python** ministrado pelo [Curso em Vídeo](https://www.youtube.com/c/CursoemVideo), abrangendo os três módulos:
 
-Mundo 1: Fundamentos de Python
+- **Mundo 1**: Fundamentos de Python  
+- **Mundo 2**: Estruturas de Controle e Repetição  
+- **Mundo 3**: Funções, Módulos e Manipulação de Arquivos  
 
-Mundo 2: Estruturas de Controle e Repetição
+## Estrutura do Repositório
 
-Mundo 3: Funções, Módulos e Manipulação de Arquivos
+- Cada pasta corresponde a um mundo do curso.  
+- Os arquivos estão nomeados de acordo com a numeração dos exercícios.  
 
-Estrutura do Repositório
+## Objetivo
 
-Cada pasta corresponde a um mundo do curso.
-
-Os arquivos estão nomeados de acordo com a numeração dos exercícios.
-
-Objetivo
-
-Consolidar os conhecimentos adquiridos em Python por meio da prática de exercícios e facilitar a consulta futura.
+Consolidar os conhecimentos adquiridos em Python por meio da prática de exercícios e facilitar a consulta futura.  
